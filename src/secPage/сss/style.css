@@ -1,0 +1,18 @@
+.div {
+    width: 100%;
+    height: 100%;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.msg {
+    font-family: "Lobster", serif;
+	font-weight: 400;
+	font-size: 30px;
+	margin: 30px auto;
+	transform: translateX(5%);
+	color: #FF5E73;
+}
