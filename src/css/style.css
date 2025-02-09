@@ -78,10 +78,26 @@ p {
 	z-index: 4;
 }
 
+#second-text {
+  transform: translateX(25%);
+}
+
+#third-text, #fifthh-text {
+  transform: translateX(50%);
+}
+#fourth-text {
+  transform: translateX(80%);
+}
+#sixth-text {
+  transform: translateX(150%);
+}
+#seventh-text {
+  transform: translateX(35%);
+}
 .btn {
 	font-family: "Balsamiq Sans", serif;
 	font-weight: 400;
-    width: 65%;
+  width: 65%;
 	height: 75px;
 	position: absolute;
 	top: 65%;

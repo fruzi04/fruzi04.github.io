@@ -41,7 +41,7 @@ const love = setInterval(addHeart, 500);
 function changeTextByClass() {
 	const textElements = document.querySelectorAll('.text');
 	const button = document.querySelector('.change-text-btn');
-	const targetUrl = './secPage/index.html'; 
+	const targetUrl = './heart/index.html'; 
   
 	let currentTextIndex = 0;
   
